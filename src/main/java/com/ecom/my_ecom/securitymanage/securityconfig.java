@@ -1,4 +1,4 @@
-package com.gym_logic.gym.securitymanage;
+package com.ecom.my_ecom.securitymanage;
 
 import java.util.List;
 
@@ -19,8 +19,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.DefaultSecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-import com.gym_logic.gym.jwtsecurity.jwtFilter;
-import com.gym_logic.gym.services.customedetailservice;
+import com.ecom.my_ecom.jwtsecurity.jwtFilter;
+import com.ecom.my_ecom.services.customedetailservice;
 
 
 

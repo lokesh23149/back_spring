@@ -1,4 +1,4 @@
-package com.gym_logic.gym.connection;
+package com.ecom.my_ecom.controllers;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.gym_logic.gym.services;
+package com.ecom.my_ecom.services;
 
 
 import java.util.Collections;
@@ -11,8 +11,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
 
-import com.gym_logic.gym.entitys.myentity;
-import com.gym_logic.gym.repositorys.Repository;
+import com.ecom.my_ecom.entities.myentity;
+import com.ecom.my_ecom.productrepository.Repository;
 
 @Component
 public class customedetailservice implements UserDetailsService {

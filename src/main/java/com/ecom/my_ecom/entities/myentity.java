@@ -1,4 +1,4 @@
-package com.gym_logic.gym.entitys;
+package com.ecom.my_ecom.entities;
 
 
 import jakarta.persistence.Entity;

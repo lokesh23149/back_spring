@@ -1,11 +1,11 @@
-package com.gym_logic.gym.repositorys;
+package com.ecom.my_ecom.productrepository;
 
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.gym_logic.gym.entitys.myentity;
+import com.ecom.my_ecom.entities.myentity;
 
 public interface Repository extends JpaRepository<myentity, Long>{
 	

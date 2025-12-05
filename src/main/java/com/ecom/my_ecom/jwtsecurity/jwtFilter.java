@@ -1,4 +1,4 @@
-package com.gym_logic.gym.jwtsecurity;
+package com.ecom.my_ecom.jwtsecurity;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -12,8 +12,8 @@ import org.springframework.security.web.authentication.WebAuthenticationDetails;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
+import com.ecom.my_ecom.services.customedetailservice;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.gym_logic.gym.services.customedetailservice;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

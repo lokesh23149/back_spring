@@ -1,4 +1,4 @@
-package com.gym_logic.gym.resources;
+package com.ecom.my_ecom.resources;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

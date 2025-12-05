@@ -1,4 +1,4 @@
-package com.gym_logic.gym.jwtsecurity;
+package com.ecom.my_ecom.jwtsecurity;
 
 import java.util.Date;
 

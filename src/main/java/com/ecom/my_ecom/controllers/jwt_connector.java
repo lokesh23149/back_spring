@@ -1,4 +1,4 @@
-package com.gym_logic.gym.connection;
+package com.ecom.my_ecom.controllers;
 
 import java.util.Map;
 
@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.gym_logic.gym.entitys.myentity;
-import com.gym_logic.gym.jwtsecurity.jwts;
+import com.ecom.my_ecom.entities.myentity;
+import com.ecom.my_ecom.jwtsecurity.jwts;
+
 
 @RestController
 @RequestMapping("/auth")
