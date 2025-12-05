@@ -18,6 +18,7 @@ import com.ecom.my_ecom.services.product_service;
 @RestController
 @RequestMapping("/api/products")
 public class productcontrol {
+	
 	@Autowired
 	private product_service pro_service;
 
